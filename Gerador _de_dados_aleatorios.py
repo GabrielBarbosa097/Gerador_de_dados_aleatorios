@@ -1,5 +1,5 @@
 import random
-import Gerador_de_dados_aleatorios.lista as lista
+import lista
 import os
 print('-='*20)
 print('BEM VINDO AO GERADOR DE DADOS')
